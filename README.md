@@ -1,3 +1,6 @@
+vg: this is a copy of deleted codecommit repo due to aws resources teardown
+
+
 Welcome to the AWS CodeStar sample web application
 ==================================================
 
