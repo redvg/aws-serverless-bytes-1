@@ -1,0 +1,17 @@
+{
+    "AddService": {
+        "lambda": {
+            "x": 1,
+            "z": 2
+        },
+        "apigateway": {
+            "path": "/add/1/2",
+            "method": {
+                "value": "GET",
+                "items": [
+                    "GET"
+                ]
+            }
+        }
+    }
+}
